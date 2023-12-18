@@ -1,0 +1,5 @@
+train: C:\Users\Miguel\Desktop\Inacapreconocimiento2\data\train\
+val: C:\Users\Miguel\Desktop\Inacapreconocimiento2\data\val\
+test: 
+nc: 1
+names: ["logo"]

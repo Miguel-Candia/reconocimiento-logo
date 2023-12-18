@@ -1,0 +1,5 @@
+train: C:\Users\Miguel\Desktop\Inacapreconocimiento2\logoinacap\YOLODataset/images/train/
+val: C:\Users\Miguel\Desktop\Inacapreconocimiento2\logoinacap\YOLODataset/images/val/
+test: C:\Users\Miguel\Desktop\Inacapreconocimiento2\logoinacap\YOLODataset/images/test/
+nc: 1
+names: ["logo"]
